@@ -2,7 +2,7 @@
   "name": "insta-youtube-search",
   "main": "index.js",
   "scripts": {
-    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
   "author": "",
   "license": "ISC",
