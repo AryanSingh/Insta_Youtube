@@ -5,7 +5,9 @@
 
 .search-bar input {
   width: 75%;
+  padding-left: 10px;
 }
+
 
 .video-item img{
   max-width: 64px;

@@ -16,7 +16,7 @@ class App extends Component{
 		this.state = { videos: [],
 		 							 selectedVideo: null};
 
-		this.videoSearch('surfboards');
+		this.videoSearch('random video');
 	}
 
 	videoSearch(term){
